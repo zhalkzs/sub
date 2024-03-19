@@ -1,0 +1,22 @@
+﻿IP地址,端口,TLS,数据中心,地区,城市,网络延迟,下载速度
+8.217.149.28,2087,TRUE,HKG,Asia Pacific,Hong Kong,61 ms,25.154
+8.217.149.28,2053,TRUE,HKG,Asia Pacific,Hong Kong,62 ms,23.865
+8.217.149.28,8443,TRUE,HKG,Asia Pacific,Hong Kong,61 ms,23.747
+47.76.33.40,2053,TRUE,HKG,Asia Pacific,Hong Kong,63 ms,23.345
+8.217.149.28,2096,TRUE,HKG,Asia Pacific,Hong Kong,61 ms,21.934
+8.218.8.142,2083,TRUE,HKG,Asia Pacific,Hong Kong,55 ms,21.933
+8.218.188.129,2083,TRUE,HKG,Asia Pacific,Hong Kong,63 ms,21.45
+195.245.242.232,53942,TRUE,HKG,Asia Pacific,Hong Kong,83 ms,20.529
+8.218.188.129,8443,TRUE,HKG,Asia Pacific,Hong Kong,69 ms,19.857
+8.218.188.129,2096,TRUE,HKG,Asia Pacific,Hong Kong,66 ms,19.541
+8.218.188.129,2087,TRUE,HKG,Asia Pacific,Hong Kong,70 ms,18.695
+118.163.128.81,17333,TRUE,KHH,Asia Pacific,Kaohsiung City,84 ms,18.461
+114.214.202.60,8443,TRUE,HKG,Asia Pacific,Hong Kong,127 ms,15.103
+8.218.188.129,443,TRUE,HKG,Asia Pacific,Hong Kong,60 ms,12.882
+154.197.121.127,443,TRUE,SJC,North America,San Jose,186 ms,12.796
+217.163.76.59,443,TRUE,SJC,North America,San Jose,170 ms,12.463
+45.66.128.216,2001,TRUE,KIX,Asia Pacific,Osaka,85 ms,11.342
+66.42.103.115,6969,TRUE,LAX,North America,Los Angeles,188 ms,11.016
+217.163.76.75,443,TRUE,SJC,North America,San Jose,170 ms,10.775
+168.100.6.26,443,TRUE,SJC,North America,San Jose,174 ms,10.361
+47.236.170.54,2053,TRUE,SIN,Asia Pacific,Singapore,225 ms,9.289
